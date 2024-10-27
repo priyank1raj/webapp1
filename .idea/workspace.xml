@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba842800-466f-48d3-add2-1a4e762f1a9f" name="Changes" comment="After Converter GUI Day 17">
+    <list default="true" id="ba842800-466f-48d3-add2-1a4e762f1a9f" name="Changes" comment="add complete and exit button in todo gui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app1/app1gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/app1gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app1/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app1/todo.txt" afterDir="false" />
@@ -47,22 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Bug-Ex1-Day16.executor": "Run",
-    "Python.CodeExecise1day17-Convertor-GUI.executor": "Run",
-    "Python.app1gui.executor": "Run",
-    "Python.bonus16.executor": "Run",
-    "Python.bugEx1Day17.executor": "Run",
-    "Python.codeexercise1day16.executor": "Run",
-    "Python.converter.executor": "Run",
-    "Python.function.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Bug-Ex1-Day16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CodeExecise1day17-Convertor-GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app1gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugEx1Day17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codeexercise1day16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.CodeExecise1day17-Convertor-GUI">
     <configuration name="CodeExecise1day17-Convertor-GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -162,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730028254467</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add complete and exit button in todo gui">
+      <option name="closed" value="true" />
+      <created>1730045183700</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730045183700</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +189,7 @@
     <MESSAGE value="Implemented Add button in todo gui" />
     <MESSAGE value="Implemented Edit button in todo gui" />
     <MESSAGE value="After Converter GUI Day 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="After Converter GUI Day 17" />
+    <MESSAGE value="add complete and exit button in todo gui" />
+    <option name="LAST_COMMIT_MESSAGE" value="add complete and exit button in todo gui" />
   </component>
 </project>
