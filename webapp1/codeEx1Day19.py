@@ -16,5 +16,3 @@ if uploaded_image:
     img2 = Image.open(uploaded_image)
     gray_uploaded_img = img2.convert('L')
     st.image(gray_uploaded_img)
-
-# You can use uploaded_image = st.file_uploader("Upload Image") to create a "Browse File" component.
